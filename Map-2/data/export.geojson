@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-06-20T07:19:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894356846",
+        "amenity": "bank",
+        "name": "Machhapuchchhre Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3183198,
+          27.6921616
+        ]
+      },
+      "id": "node/1894356846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894402396",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "NMB Bank",
+        "operator": "NMB Bank",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3262484,
+          27.6926462
+        ]
+      },
+      "id": "node/1894402396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1905315215",
+        "amenity": "bank",
+        "name": "Jal binayak sahakary sanstha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3212158,
+          27.6997587
+        ]
+      },
+      "id": "node/1905315215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2027894684",
+        "amenity": "bank",
+        "name": "Nepal Bangladesh Bank Head Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3290928,
+          27.6902518
+        ]
+      },
+      "id": "node/2027894684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4240728490",
+        "addr:street": "Tanka Prasad Ghumti Sadak",
+        "amenity": "bank",
+        "name": "Nabil Bank",
+        "opening_hours": "Su-Fr 10:00-17:00",
+        "phone": "014227181",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3284762,
+          27.6973279
+        ]
+      },
+      "id": "node/4240728490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4349304590",
+        "addr:street": "Tanka Prasad Ghumti Sadak",
+        "amenity": "bank",
+        "name": "Global IME",
+        "opening_hours": "Su-Th 10:00-22:00; Fr 10:00-13:00",
+        "phone": "014242764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3284165,
+          27.6972356
+        ]
+      },
+      "id": "node/4349304590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394871790",
+        "addr:street": "Ram Shah Path",
+        "amenity": "bank",
+        "name:en": "Agricultural Development Bank Ltd. Head Office",
+        "phone": "97714252359",
+        "toilets:wheelchair": "no",
+        "website": "https://www.adbl.gov.np/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3206862,
+          27.6964197
+        ]
+      },
+      "id": "node/4394871790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4591194590",
+        "amenity": "bank",
+        "name:en": "Nepal Rastra Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3178661,
+          27.6911574
+        ]
+      },
+      "id": "node/4591194590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664779089",
+        "amenity": "bank",
+        "name:en": "Rastriya Banijya Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3187539,
+          27.6938207
+        ]
+      },
+      "id": "node/4664779089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4812698121",
+        "amenity": "bank",
+        "name:en": "NIC Asia Corporate office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3191911,
+          27.6922959
+        ]
+      },
+      "id": "node/4812698121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4944069122",
+        "amenity": "bank",
+        "name:en": "Laxmi capital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3327477,
+          27.6890469
+        ]
+      },
+      "id": "node/4944069122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4944069924",
+        "amenity": "bank",
+        "name:en": "Laxmi Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3314836,
+          27.6887855
+        ]
+      },
+      "id": "node/4944069924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4986377021",
+        "amenity": "bank",
+        "name:en": "NIC Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3197596,
+          27.6921862
+        ]
+      },
+      "id": "node/4986377021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5070877541",
+        "addr:street": "Bagmati Bridge",
+        "amenity": "bank",
+        "name": "Maneshwari Saving & Credit Co-Operative",
+        "name:en": "Maneshwari Saving & Credit Co-Operative",
+        "phone": "014266226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3176641,
+          27.6900299
+        ]
+      },
+      "id": "node/5070877541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080740321",
+        "addr:street": "Prasuti Griha Marg",
+        "amenity": "bank",
+        "name": "NMB Bank",
+        "name:en": "NMB Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3179861,
+          27.6907549
+        ]
+      },
+      "id": "node/5080740321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5221274621",
+        "amenity": "bank",
+        "name:en": "Everest Bank",
+        "opening_hours": "Su-Fr 10:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3267134,
+          27.6959053
+        ]
+      },
+      "id": "node/5221274621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5227870121",
+        "amenity": "bank",
+        "name:en": "Everest Bank",
+        "operator": "Everest Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3266089,
+          27.6958818
+        ]
+      },
+      "id": "node/5227870121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304735223",
+        "addr:street": "Bijulibazar Bridge",
+        "amenity": "bank",
+        "name:en": "IME Money Transfer (Bijulibazar)",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3289857,
+          27.6902792
+        ]
+      },
+      "id": "node/5304735223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081853886",
+        "amenity": "bank",
+        "name:en": "NIC Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3280787,
+          27.695901
+        ]
+      },
+      "id": "node/7081853886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081853986",
+        "amenity": "bank",
+        "name:en": "Shangri-La Development Bank Ltd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3280049,
+          27.6957759
+        ]
+      },
+      "id": "node/7081853986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8292611320",
+        "amenity": "bank",
+        "name:en": "Nepal Rastra Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3278086,
+          27.6896768
+        ]
+      },
+      "id": "node/8292611320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521403919",
+        "amenity": "bank",
+        "name": "Sanima Bank",
+        "opening_hours": "Mo-Su 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3278263,
+          27.6954256
+        ]
+      },
+      "id": "node/9521403919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521404319",
+        "addr:street": "Ram Shah Path",
+        "amenity": "bank",
+        "name:en": "Kumari Bank",
+        "opening_hours": "Mo-Su 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3218065,
+          27.6998797
+        ]
+      },
+      "id": "node/9521404319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9521406217",
+        "amenity": "bank",
+        "name:en": "Bank of Kathmandu",
+        "opening_hours": "Mo-Su 10:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3271672,
+          27.6997953
+        ]
+      },
+      "id": "node/9521406217"
+    }
+  ]
+}
